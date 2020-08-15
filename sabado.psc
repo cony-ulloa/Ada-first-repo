@@ -32,8 +32,10 @@ Algoritmo sin_titulo
 	
 	promedio = long/km
 	
-	Escribir 'El promedio de kilómetros entre las paradas es: ' promedio
-	Escribir 'El total de kilómetros es de: ' long
+	Escribir 'El promedio de kilÃ³metros entre las paradas es: ' promedio
+	Escribir 'El total de kilÃ³metros es de: ' long
+	
+	/// holaa como estas
 	
 FinAlgoritmo
 
