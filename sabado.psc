@@ -15,6 +15,8 @@ Algoritmo sin_titulo
 	
 	Dimension numParadas[n]
 	
+	holaaaacomoestas
+	
 	long <- 0
 	minTrayecto <- 0
 	
